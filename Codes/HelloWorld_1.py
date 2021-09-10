@@ -2,6 +2,7 @@
 '''
 Python version 3.8
 Remote Git -> Practice1 repository
+Multi line comments with single quote
 '''
 print("Hello World 1")
 myStr = "\'hello \nVikash!\'"
